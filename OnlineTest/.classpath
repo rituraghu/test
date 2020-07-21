@@ -20,5 +20,14 @@
 	<classpathentry kind="lib" path="C:/SeleniumcSharp/tagsoup-1.2.1.jar"/>
 	<classpathentry kind="lib" path="C:/SeleniumcSharp/xml-path-3.0.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/viplav/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/viplav/.m2/repository/org/apache/poi/poi/3.6/poi-3.6.jar" sourcepath="C:/Users/viplav/.m2/repository/org/apache/poi/poi/3.6/poi-3.6-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.apache.poi"/>
+			<attribute name="maven.artifactId" value="poi"/>
+			<attribute name="maven.version" value="3.6"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
