@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 	 
 	    @LocalServerPort
 	    private int port;
-	 
+	  bmbbmn
 	    private String uri;
 	 
 	    @PostConstruct
